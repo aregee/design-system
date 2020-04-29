@@ -92,6 +92,9 @@ datashopPlugin.js
 # Coverage directory used by tools like istanbul
 coverage
 
+# npm
+.npmrc
+
 # bundles files
 
 dist
